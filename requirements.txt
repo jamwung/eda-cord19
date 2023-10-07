@@ -1,0 +1,12 @@
+sqlite3==2.6.0
+SQLAlchemy==1.4.25
+pandas==1.3.3
+numpy==1.21.2
+json==3.7.6
+gzip==1.10
+regex==2021.8.28
+seaborn==0.11.2
+matplotlib==3.4.3
+ast==0.0.2
+collections==3.10.0
+wordcloud==1.8.1
